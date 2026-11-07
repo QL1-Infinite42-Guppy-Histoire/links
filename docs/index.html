@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- BRAND: fallback title — app.js rewrites it from the BRAND constant -->
+<title>Guppy's Guide — Don't Panic — a hitchhiker's toolbox for 42 Chain &amp; QL1</title>
+<meta name="description" content="All tools by Histoire (@RainbowFish42) for 42 Chain & QL1 in one place. Every product is open source (MIT).">
+<link rel="stylesheet" href="style.css">
+<script>
+(function () {
+  var lang = null;
+  try { lang = localStorage.getItem("links_lang"); } catch (e) {}
+  location.replace((lang === "ja" ? "ja.html" : "en.html") + location.search + location.hash);
+})();
+</script>
+</head>
+<body>
+<header>
+  <!-- BRAND: site name (the live value comes from BRAND in app.js) -->
+  <h1>Guppy's Guide</h1>
+  <p class="sub">Choose your language / 言語を選んでください</p>
+  <p class="sub"><a href="en.html">English</a> ・ <a href="ja.html">日本語</a></p>
+  <noscript><p class="sub">JavaScript is disabled — please use the links above. / JavaScript が無効です。上のリンクからお進みください。</p></noscript>
+</header>
+</body>
+</html>

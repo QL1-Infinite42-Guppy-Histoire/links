@@ -1,0 +1,43 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; background: #fff7e6; color: #2b2118; }
+header { padding: 20px 16px 4px; max-width: 760px; margin: 0 auto; position: relative; }
+.brand { display: flex; align-items: flex-start; gap: 12px; }
+.brand-emoji { font-size: 40px; line-height: 1.1; }
+h1 { font-size: 28px; margin: 0; }
+.tagline { font-size: 16px; font-weight: 700; color: #92600a; margin: 4px 0 0; }
+.sub { color: #7a6a58; margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
+.head-link { color: #2563eb; }
+.head-links { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 0; }
+.head-btn { display: inline-block; background: #fff; color: #2b2118; border: 1px solid #e5d5b8; border-radius: 999px; padding: 9px 16px; font-size: 14px; font-weight: 700; text-decoration: none; min-height: 40px; line-height: 20px; }
+.head-btn:active { transform: scale(.98); }
+.lang-switch { position: absolute; top: 20px; right: 16px; font-size: 13px; color: #7a6a58; z-index: 2; }
+.lang-switch select { margin-left: 4px; background: #fff; color: #2b2118; border: 1px solid #e5d5b8; border-radius: 8px; padding: 6px 8px; font-size: 13px; min-height: 36px; }
+main { padding-bottom: 8px; }
+.panel { background: #fff; border: 1px solid #f0dfbc; border-radius: 16px; padding: 16px; margin: 12px auto; max-width: 760px; width: calc(100% - 24px); box-shadow: 0 2px 10px rgba(120,80,0,.06); }
+.panel h2 { font-size: 17px; margin: 0 0 12px; }
+
+/* Product cards — the whole card is the tap target (link-in-bio style).
+   .card-link stretches over the whole card; .gh-link sits above it. */
+.card { position: relative; display: flex; gap: 12px; align-items: flex-start; background: #fffaf0; border: 1px solid #f0dfbc; border-radius: 14px; padding: 14px; margin-top: 10px; transition: box-shadow .15s ease, transform .1s ease; }
+.card:first-of-type { margin-top: 0; }
+.card:hover { box-shadow: 0 4px 16px rgba(120,80,0,.13); }
+.card:active { transform: scale(.995); }
+.card-link { position: absolute; inset: 0; z-index: 1; border-radius: 14px; }
+.card-link:focus-visible { outline: 3px solid #ea580c; outline-offset: 2px; }
+.card-emoji { font-size: 30px; line-height: 1.2; flex: none; }
+.card-main { flex: 1; min-width: 0; }
+.card-main h3 { font-size: 17px; margin: 0; line-height: 1.35; }
+.card-main p { font-size: 14px; line-height: 1.6; color: #4a3f33; margin: 4px 0 0; }
+.badge { display: inline-block; font-size: 11px; font-weight: 700; border-radius: 999px; padding: 2px 9px; background: #fef3c7; color: #92400e; border: 1px solid #f59e0b; vertical-align: middle; margin-left: 6px; white-space: nowrap; }
+.card-actions { display: flex; align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+.open-chip { display: inline-block; background: #ea580c; color: #fff; border-radius: 999px; padding: 8px 16px; font-size: 14px; font-weight: 800; }
+.gh-link { position: relative; z-index: 2; display: inline-block; background: #fff; color: #2b2118; border: 1px solid #e5d5b8; border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 700; text-decoration: none; }
+.gh-link:active { transform: scale(.97); }
+a { color: #2563eb; }
+footer { max-width: 760px; margin: 0 auto; padding: 4px 16px 32px; color: #7a6a58; font-size: 13px; line-height: 1.6; }
+@media (max-width: 560px) {
+  h1 { font-size: 25px; }
+  .lang-switch { position: static; display: block; text-align: right; margin-bottom: 8px; }
+  header { padding-top: 12px; }
+  .card-emoji { font-size: 26px; }
+}
