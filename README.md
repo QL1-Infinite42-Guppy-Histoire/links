@@ -19,6 +19,7 @@ Every product is open source (MIT).
 |---|---|---|
 | GuppyWallet（製作中 / In development） | 42 Chain・QL1向けウォレット（Androidアプリ＋ブラウザ拡張機能）/ Wallet app + browser extension | [Download](https://github.com/QL1-Infinite42-Guppy-Histoire/GuppyWallet/releases) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/GuppyWallet) |
 | DEX アグリゲーター / DEX Aggregator | 全プールから最良のスワップ経路を探索 / Best swap route across all pools | [Site](https://ql1-infinite42-guppy-histoire.github.io/dex-aggregator/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/dex-aggregator) |
+| ブリッジ / Bridge | 42 Chain・QL1・BSC・Ethereum間のトークン移動 / Move tokens between 42 Chain, QL1, BSC and Ethereum | [Site](https://ql1-infinite42-guppy-histoire.github.io/guppy-bridge/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/guppy-bridge) |
 | QL1 トークン価格 / QL1 Token Prices | QOM実勢価格ベースの価格・時価総額 / Prices & market caps anchored to the real QOM price | [Site](https://ql1-infinite42-guppy-histoire.github.io/ql1-token-prices/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/ql1-token-prices) |
 | QOM ステーキング / QOM Staking | QL1バリデーターへのQOM委任 / Delegate QOM to QL1 validators | [Site](https://ql1-infinite42-guppy-histoire.github.io/qom-staking/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/qom-staking) |
 | 42 ステーキング / 42 Staking | 42 Chainバリデーターへの42直接委任 / Delegate 42 directly to 42 Chain validators | [Site](https://ql1-infinite42-guppy-histoire.github.io/42-staking/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/42-staking) |
