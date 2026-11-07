@@ -35,6 +35,8 @@ Every product is open source (MIT).
 | 42 Cosmos スキャナー / 42 Cosmos Scanner（製作中 / In development） | 42 ChainのCosmos側ブラウザ / Browse the Cosmos side of 42 Chain | [Site](https://ql1-infinite42-guppy-histoire.github.io/42-cosmos-scan/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/42-cosmos-scan) |
 | QL1予備エクスプローラー（超簡易版）/ QL1 Backup Explorer (Simple version) | 本家scanの予備・超簡易版（直近ブロックのみ）/ Super-simple backup explorer for QL1 (recent blocks only) | [Site](https://ql1-scan-backup.nepicobsv.workers.dev/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/ql1-scan-backup) |
 | QL1エクスプローラー 本格版 / QL1 Explorer — Full Version（近日公開 / Coming soon） | 本家と同じBlockscout製の本格版エクスプローラー / Full Blockscout-based explorer, like the main scan | 近日公開 / Coming soon |
+| 42予備エクスプローラー（超簡易版）/ 42 Backup Explorer (Simple version) | 本家scanの予備・超簡易版（公開RPCから直接表示、全履歴対応）/ Super-simple backup explorer for 42 Chain (direct from the public RPC, full history) | [Site](https://42-scan-backup.nepicobsv.workers.dev/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/42-scan-backup) |
+| 42エクスプローラー 本格版 / 42 Explorer — Full Version（近日公開 / Coming soon） | 本家と同じBlockscout製の本格版エクスプローラー / Full Blockscout-based explorer, like the main scan | 近日公開 / Coming soon |
 | 42 バブルマップ / 42 Bubble Map（製作中 / In development） | 42 Chain・QL1のトークン保有者のバブルマップ / Bubble map of token holders on 42 Chain & QL1 (website) | 近日公開 / Coming soon |
 
 ## ライセンス / License
