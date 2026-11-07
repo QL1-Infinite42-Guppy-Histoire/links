@@ -34,6 +34,11 @@ main { padding-bottom: 8px; }
 .open-chip { display: inline-block; background: #ea580c; color: #fff; border-radius: 999px; padding: 8px 16px; font-size: 14px; font-weight: 800; }
 .gh-link { position: relative; z-index: 2; display: inline-block; background: #fff; color: #2b2118; border: 1px solid #e5d5b8; border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 700; text-decoration: none; }
 .gh-link:active { transform: scale(.97); }
+/* Non-tappable "coming soon" card (no link yet) */
+.card-soon { opacity: .62; cursor: default; background: #f7f1e2; }
+.card-soon:hover { box-shadow: none; }
+.card-soon:active { transform: none; }
+.soon-chip { display: inline-block; background: #e8ddc4; color: #7a6a58; border-radius: 999px; padding: 8px 16px; font-size: 14px; font-weight: 700; }
 a { color: #2563eb; }
 footer { max-width: 760px; margin: 0 auto; padding: 4px 16px 32px; color: #7a6a58; font-size: 13px; line-height: 1.6; }
 @media (max-width: 560px) {
