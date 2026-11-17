@@ -25,7 +25,7 @@ Every product is open source (MIT).
 | 42 ステーキング / 42 Staking | 42 Chainバリデーターへの42直接委任 / Delegate 42 directly to 42 Chain validators | [Site](https://ql1-infinite42-guppy-histoire.github.io/42-staking/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/42-staking) |
 | 42 フォーセット / 42 Faucet | ガス代用の 42・ZAP・QOM を無料で少し / Free small amounts for gas | [Site](https://ql1-infinite42-guppy-histoire.github.io/42-faucet/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/42-faucet) |
 | CAT42 請求 / CAT42 Claim | 未請求CAT42をワンタップで回収 / Claim unclaimed CAT42 in one tap | [Site](https://cat.id42.win/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/cat42-claim) |
-| HAWK バーン / HAWK Burn | QL1のHAWKをバーンして100:1でPHOENIXに（既存コントラクト使用） / Burn QL1 HAWK into PHOENIX at 100:1 (existing contract) | [Site](https://ql1-infinite42-guppy-histoire.github.io/hawk-burn/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/hawk-burn) |
+| HAWK バーン / HAWK Burn | QL1のHAWKをバーンして100:1でPHOENIXに（既存コントラクト使用） / Burn QL1 HAWK into PHOENIX at 100:1 (existing contract) | [Site](https://hawk.qql1.com/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/hawk-burn) |
 | FISH オートスワップ / FISH AutoSwap（まもなく開始 / Launching soon） | 毎朝のFISHを09:10に自動交換 / Auto-swap daily FISH at 09:10 JST | [Site](https://ql1-infinite42-guppy-histoire.github.io/fish-autoswap/) ・ [GitHub](https://github.com/QL1-Infinite42-Guppy-Histoire/fish-autoswap) |
 
 ### 調べる / Explore & Research
